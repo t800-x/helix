@@ -1,0 +1,11 @@
+groq
+pyttsx3
+openai==0.28
+googlesearch
+lxml
+bs4
+pynput
+time
+pyaudio
+wave
+sched
