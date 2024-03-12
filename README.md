@@ -13,6 +13,16 @@ Helix is an advanced AI assistant designed to help you with various tasks, from 
 
 ## Usage
 
+Be sure to add your Groq API keys to config.json.
+### Sample config.json
+
+````
+{
+    "GROQ_KEY" : "YOUR_API_KEY",
+    "WHISPER_KEY" : "YOUR_API_KEY"
+}
+````
+
 ### Internet Browsing
 
 To search the internet using Helix, simply provide your query as input, and Helix will retrieve relevant search results for you.
